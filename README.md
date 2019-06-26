@@ -13,6 +13,7 @@ rustup 1.18.3 (435397f48 2019-05-22)
 ## Usage
 ```
 git clone https://github.com/geocolumbus/rust-notes.git
+cd rust-notes
 rustc main.rs
 ./main
 ```
