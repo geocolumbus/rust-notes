@@ -2,6 +2,14 @@
 
 Install Rust using ```rustup``` - [instructions](https://www.rust-lang.org/tools/install).
 
+You'll need to add this to your ```~/.bash_profile``` file:
+
+```
+export PATH = $PATH:~/.cargo/bin
+```
+
+Restart your shell and see if it works
+
 ```
 rustc --version
 rustc 1.35.0 (3c235d560 2019-05-20)
