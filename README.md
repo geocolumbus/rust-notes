@@ -28,5 +28,5 @@ rustc main.rs
 
 ## Reference
 
+* [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
 * [The Rust Programming Langauge](https://doc.rust-lang.org/book/)
-
